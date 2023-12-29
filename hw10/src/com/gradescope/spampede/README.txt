@@ -1,34 +1,18 @@
 Spampede README.txt
 
-Please complete the template below, replacing the text between 
-the ** symbols with your own text.
+Basic snake game, where the snake eats spam instead of apples. The goal is to grow 
+the snake as long as possible by eating spam. The game ends when the snake's head
+collides with the wall or its own body.
 
 Parts of the project completed/not completed:
 
-    ** 
-        Please indicate here what you completed and what (if any)
-        parts of the project you did not complete.
-    **
+Fully functional snake game. Did not implement AI.
 
 Known bugs:  
 
-    ** 
-        Please list any bugs that you have discovered in your programs.
-        (Reporting bugs demonstrates you have tested your software -- as a
-        result, it is a way to earn some of the credit for those features.)
-    **
+If you tell the snake to travel into itself, the game will end. For example
+if it is travelling right and you tell the snake to go left, the game will end.
 
 Extra features that were added:
 
-    ** 
-        If you added any bonus features, please describe them for us here
-        and tell us how to use them when we play your game.
-    ** 
-
-(Optional) Comments about this project:
-
-    **
-        Please tell us any thoughts you had on this project - what
-        you enjoyed or did not enjoy, what was challenging, or anything else.
-    **
-
+None.
